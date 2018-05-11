@@ -1,4 +1,4 @@
 def addition (x,y):
-	pass;
+	pass
 def substraction(x,y);
-	pass;
+	pass
